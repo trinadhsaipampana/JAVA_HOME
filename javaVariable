@@ -1,0 +1,4 @@
+After installing java, we need to declare a global variable for it in /etc/profile file at the ending as
+export JAVA_HOME=/usr/lib/jvm/<java directory>
+After that we need to load it as global variable by executing the following command
+source /etc/profile
